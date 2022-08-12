@@ -293,6 +293,9 @@ projects:
   - name: Pyre
     url: https://pyre-check.org
     gh_url: https://github.com/facebook/pyre-check
+  - name: Tachiyomi
+    gh_url: https://github.com/tachiyomiorg/tachiyomi
+    url: https://tachiyomi.org/
 
   # Non-GitHub projects below, manually updated
 
